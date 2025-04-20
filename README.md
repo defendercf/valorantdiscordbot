@@ -29,5 +29,6 @@ API_KEY=YOUR_API_KEY
 | Command | Description |
 | `!store` | Displays the current Valorant bundle in the store along with its price. |
 | `!account <RiotID#Tag>` | Displays data regarding the specified Valorant account. Example: `!account namtaka#fAz` |
+| `!matches <RiotID#Tag>` | Displays the match history with agents, map, stats, kd, and hs percentage. Example:  `!matches namtaka#fAz` |
 
 Made by a fellow Valorant Player
